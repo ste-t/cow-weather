@@ -76,3 +76,8 @@ LOCATION=Moscow weather
 # Credits
 
 This script works thanks to the [wttr.in](https://github.com/chubin/wttr.in) project
+
+# Did you know?
+
+This script has been developed with my phone on [Termux](https://termux.com/) at 3 am from my grandma's house
+###### _Yes, for serious_
