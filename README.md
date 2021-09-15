@@ -22,6 +22,7 @@ Just paste the [content of weather.sh](weather.sh) in your `.bashrc`, `.zshrc` o
 * **Cowsay**
     - Install it with your package manager
 * **Lolcat**
+    - Install it with your package manager, or...
     - Install `ruby` with your package manager and then run `gem install lolcat`
 
 # Usage
