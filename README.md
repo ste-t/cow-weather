@@ -1,18 +1,28 @@
 # Cow-weather
 
-Fun little script to check the current weather in your terminal.
+Fun little script to check the cow-rent weather in your terminal (ahah very funny joke).
 
 ![Presentation image](assets/presentation.jpg)
 
 # Overview
 
+* Compatible with any *nix system (GNU/Linux, Mac OS, *BSD...)
 * Select the default location you want to show info about or choose at runtime
 * Print current weather to terminal
 * Show a funny error message when there is no internet connection
 
 # Installation
 
-Just paste the [content of weather.sh](weather.sh) in your `.bashrc`, `.zshrc` or similars.
+Just paste the [content of weather.sh](weather.sh) in your `.bashrc`, `.zshrc` or similars and restart your shell.
+
+## Dependencies
+
+* **Curl**
+    - Install it with your package manager
+* **Cowsay**
+    - Install it with your package manager
+* **Lolcat**
+    - Install `ruby` with your package manager and then run `gem install lolcat`
 
 # Usage
 
@@ -57,3 +67,7 @@ LOCATION=Moscow weather
 
 ## Small terminal
 ![Error tux image](assets/error_tux.jpg)
+
+# Credits
+
+This script works thanks to the [wttr.in](https://github.com/chubin/wttr.in) project
