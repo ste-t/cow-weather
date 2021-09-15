@@ -29,7 +29,7 @@ Just paste the [content of weather.sh](weather.sh) in your `.bashrc`, `.zshrc` o
 
 ```
 weather  # Default location
-LOCATION=Rome weather  # Custom location
+weather Rome  # Custom location
 ```
 
 # Note
@@ -55,6 +55,10 @@ Inside your `.bashrc`, `.zshrc`, `/etc/environment` or similars.
 ### Specify a different location when running the script
 
 Run the script like this:
+```
+weather Moscow  # Best way
+```
+or
 ```
 LOCATION=Moscow weather
 ```
