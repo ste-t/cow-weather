@@ -45,6 +45,10 @@ Use the `$LOCATION` environment variable to specify the location you want to get
 
 ### Default location
 
+```bash
+export LOCATION=London  # Doesn't work on Termux
+```
+OR put
 ```
 LOCATION=London
 ```
