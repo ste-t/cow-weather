@@ -34,8 +34,8 @@ weather Rome  # Custom location
 
 # Note
 
-In all the images you can see me using the `meteo` command, which is the Italian for `weather`.
-If you want a custom name too, just replace `weather` with it.
+In all the images, you can see me using the `meteo` command, which is the Italian for `weather`.
+If you want a custom name too, just replace `weather` (at the start of the script) with it.
 
 # Location
 
