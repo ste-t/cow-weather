@@ -84,4 +84,4 @@ This script works thanks to the [wttr.in](https://github.com/chubin/wttr.in) pro
 # Did you know?
 
 This script has been developed with my phone on [Termux](https://termux.com/) at 3 am from my grandma's house.  
-_Yes, for serious._
+_Yes, seriously._
